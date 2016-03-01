@@ -1,0 +1,132 @@
+{
+	"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldData",
+	
+	"maxX" : 10,
+	"maxZ" : 9,
+	
+	"hero" : {
+		"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+		"x" : 5, "y" : 0, "z" : 7, "angleY" : 0	
+	},
+	
+	"iceMark" : [
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 6, "angleY" : 0	
+		}	
+	],
+	
+	"box" : [
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 7, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 6, "angleY" : 0	
+		}
+	],
+		
+	"ice" : [
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 2, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 7, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 2, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 7, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 8, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 2, "y" : 0, "z" : 5, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 5, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 5, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 7, "y" : 0, "z" : 5, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 8, "y" : 0, "z" : 5, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 6, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 6, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 6, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 7, "y" : 0, "z" : 6, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 7, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice.playscreen.world.models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 7, "angleY" : 0	
+		}
+	]
+}

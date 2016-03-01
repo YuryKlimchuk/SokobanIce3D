@@ -1,0 +1,104 @@
+{
+	"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldData",
+	
+	"maxX" : 8,
+	"maxZ" : 7,
+	
+	"hero" : {
+		"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+		"x" : 4, "y" : 0, "z" : 4, "angleY" : 0	
+	},
+	
+	"iceMark" : [
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 2, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 3, "angleY" : 0	
+		}
+	],
+	
+	"box" : [
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 4, "angleY" : 0	
+		}
+	],
+		
+	"ice" : [
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 2, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 2, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 3, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 2, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 3, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 6, "y" : 0, "z" : 4, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 4, "y" : 0, "z" : 5, "angleY" : 0	
+		},
+		{
+			"class" : "com.bottlelab.sokobanice3d.playscreen.world.Models.WorldUnitData",
+			"x" : 5, "y" : 0, "z" : 5, "angleY" : 0	
+		}
+	]
+}

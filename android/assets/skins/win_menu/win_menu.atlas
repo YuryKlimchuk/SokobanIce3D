@@ -1,0 +1,47 @@
+
+win_menu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+playDown
+  rotate: false
+  xy: 0, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+playUp
+  rotate: false
+  xy: 120, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+homeDown
+  rotate: false
+  xy: 240, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+homeUp
+  rotate: false
+  xy: 320, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+regameDown
+  rotate: false
+  xy: 400, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+regameUp
+  rotate: false
+  xy: 480, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

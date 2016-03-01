@@ -1,0 +1,75 @@
+
+main_menu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_sokobanice3d
+  rotate: false
+  xy: 0, 142
+  size: 800, 80
+  orig: 800, 80
+  offset: 0, 0
+  index: -1
+btn_play
+  rotate: false
+  xy: 0, 61
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+btn_settings
+  rotate: false
+  xy: 801, 152
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+btn_htp
+  rotate: false
+  xy: 0, 0
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+btn_score
+  rotate: false
+  xy: 201, 81
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+btn_info
+  rotate: false
+  xy: 872, 172
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+btn_music
+  rotate: false
+  xy: 61, 10
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+btn_music_off
+  rotate: false
+  xy: 262, 91
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+btn_sound
+  rotate: false
+  xy: 923, 172
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+btn_sound_off
+  rotate: false
+  xy: 112, 10
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

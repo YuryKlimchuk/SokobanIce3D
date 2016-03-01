@@ -1,0 +1,50 @@
+{
+	"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle" : {
+  	
+  
+    	"stepBackBtn" : {
+      		"up" : "img_step_back",
+      		"disabled" : "img_step_back_off"
+    	},
+    	
+    	"regameBtn" : {
+    		"up" : "img_regame"	
+    	},
+    	
+    	"helpBtn" : {
+    		"up" : "img_help"	
+    	},
+    	
+    	"homeBtn" : {
+    		"up" : "img_home"	
+    	},
+    	
+    	"2d3dBtn" : {
+    		"up" : "img_2d3d"	
+    	},
+    	
+    	"rotCamBtn" : {
+    		"up" : "img_rot_cam"	
+    	},
+    	
+    	"showHideBtn" : {
+    		"up" : "img_show_hide"
+    	}
+    	
+    	
+
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    		
+    }
+    	
+}

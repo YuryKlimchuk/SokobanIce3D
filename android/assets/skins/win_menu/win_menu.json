@@ -1,0 +1,8 @@
+{
+	"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle" : {
+		
+		"regameBtn" : {"up" : "regameUp", "down" : "regameDown"},
+		"playBtn" : {"up" : "playUp", "down" : "playDown"},		
+		"homeBtn" : {"up" : "homeUp", "down" : "homeDown"}
+	}	
+}

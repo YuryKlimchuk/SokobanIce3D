@@ -1,0 +1,75 @@
+
+set_level_menu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font26
+  rotate: false
+  xy: 0, 203
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+font32
+  rotate: false
+  xy: 0, 203
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+btn_box
+  rotate: false
+  xy: 0, 142
+  size: 160, 60
+  orig: 160, 60
+  offset: 0, 0
+  index: -1
+btn_box_off
+  rotate: false
+  xy: 513, 655
+  size: 160, 60
+  orig: 160, 60
+  offset: 0, 0
+  index: -1
+btn_home
+  rotate: false
+  xy: 0, 61
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btn_arrow_left
+  rotate: false
+  xy: 161, 142
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+btn_arrow_right
+  rotate: false
+  xy: 513, 594
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+btn_exit
+  rotate: false
+  xy: 674, 655
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+btn_level
+  rotate: false
+  xy: 0, 0
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+btn_level_off
+  rotate: false
+  xy: 81, 81
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

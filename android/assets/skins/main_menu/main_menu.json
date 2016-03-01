@@ -1,0 +1,43 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle" : {
+  	
+  
+    "playBtn" : {
+      "up" : "btn_play"
+    },
+    
+	"htpBtn" : {
+      "up" : "btn_htp"
+    },
+    
+	"scoreBtn" : {
+      "up" : "btn_score"
+    },
+    
+    "infoBtn" : {
+      "up" : "btn_info"
+    },
+	
+	"settingsBtn" : {
+      "up" : "btn_settings"
+    },
+	
+	"soundBtn" : {
+      "up" : "btn_sound"
+    },
+	
+	"soundOffBtn" : {
+      "up" : "btn_sound_off"
+    },
+	
+	"musicBtn" : {
+      "up" : "btn_music"
+    },
+	
+	"musicOffBtn" : {
+      "up" : "btn_music_off"
+    }
+	
+	
+  }
+}
